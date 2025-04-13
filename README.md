@@ -12,7 +12,7 @@ A simple Telegram bot built with C# that provides real-time weather updates. Jus
 ## 📦 Technologies Used
 
 - C#
-- .NET
+- .NET 9
 - [Telegram.Bot](https://www.nuget.org/packages/Telegram.Bot/)
 - Your custom weather service (`Weather.Core.API`)
 
