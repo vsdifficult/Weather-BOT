@@ -23,3 +23,4 @@ A simple Telegram bot built with C# that provides real-time weather updates. Jus
 ```bash
 git clone https://github.com/vsdifficult/Weather-BOT
 cd Weather-BOT
+dotnet run 
